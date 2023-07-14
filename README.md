@@ -1,2 +1,2 @@
 # EECode
-code for EE
+code for BertEE
