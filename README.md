@@ -1,2 +1,0 @@
-# EECode
-code for BertEE
